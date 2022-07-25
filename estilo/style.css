@@ -88,13 +88,13 @@ header > p {
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px black;
 
 }
 
 nav{
-    text-align: center;
+    text-align: start;
     background-color: var(--cor5);
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.518);
